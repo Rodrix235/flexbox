@@ -1,0 +1,20 @@
+h1{font-size: 100px; line-height:0;}
+
+#container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjeta{
+    background-color: darkorange;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    border: 2px dotted darkmagenta;
+    margin: 10px;
+}
+.tarjeta img{
+    width: 100%
+}
+
